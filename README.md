@@ -25,6 +25,8 @@ The research questions were used to help in the analysis.
 Accept the null hypothesis that the Fintech Sector has the most funded start-ups in the 4 years.
 
 Link to article on LinkedIn(https://www.linkedin.com/pulse/analysis-india-start-up-ecosystem-growth-between-2018-anne-njeri/)
+
+
 Link to article on Meduim(https://medium.com/@anitathewriter17/an-anaysis-on-india-start-up-ecosystem-growth-between-2018-to-2021-e958160913db)
 
 # Author
